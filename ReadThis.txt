@@ -1,0 +1,7 @@
+------------------------ UPDATE LOG ------------------------
+18 Feb - Created Repository
+------------------------ OBJECTIVES ------------------------
+24 Feb - Create Simple VAOC App
+01 Mar - Update VAOC Adding More Features
+
+MORE UPDATES AND OBJECTIVES SOON...
